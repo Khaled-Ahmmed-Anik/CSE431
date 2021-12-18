@@ -8,7 +8,7 @@ Paper title:
 Assessing Emoji Use in Modern Text Processing Tools 
 
 Link to the paper:
-https://aclanthology.org/2021.acl-long.110/
+https://aclanthology.org/2021.acl-long.110v1.pdf
 
 Group Number:
 2
