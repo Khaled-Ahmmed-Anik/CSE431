@@ -1,6 +1,10 @@
-Doing Datacamp course using email
+Did Datacamp course using email
 anik20099@gmail.com
 https://campus.datacamp.com/courses/intro-to-python-for-data-science
+
+Doing Datacamp course using email
+anik20099@gmail.com
+https://campus.datacamp.com/courses/feature-engineering-for-nlp-in-python/basic-features-and-readability-scores?ex=1
 
 completed youtube video:
 https://youtu.be/4jROlXH9Nvc
